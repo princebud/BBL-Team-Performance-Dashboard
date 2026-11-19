@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local/raw datasets
+data/*.zip
+data/bbl_matches.csv
+data/bbl_ball_by_ball.csv
+
+# Keep output demo assets in repository; ignore generated real-data outputs if needed only by maintainers?
+# (Outputs are committed for a preview; regenerate after processing actual data.)

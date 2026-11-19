@@ -1,0 +1,7 @@
+pandas>=2.2.3
+numpy>=1.26
+matplotlib>=3.9
+plotly>=5.24
+streamlit>=1.40
+# only needed to open the notebook:
+notebook>=7.0

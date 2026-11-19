@@ -1,0 +1,5 @@
+team,matches_played,decided_matches,wins,win_rate_pct,decided_after_toss_win,win_rate_after_toss_win_pct,decided_after_toss_loss,win_rate_after_toss_loss_pct,runs_scored,legal_balls_faced,runs_per_100_balls,boundaries_per_100_balls,wickets_lost_per_100_balls,death_runs_per_100_balls
+Adelaide Strikers,38,22,13,59.09,10,50.0,12,66.67,8778,4398,199.59,26.08,4.18,194.0
+Brisbane Heat,32,19,5,26.32,8,25.0,11,27.27,7688,3666,209.71,27.8,4.2,198.58
+Melbourne Stars,22,17,10,58.82,9,44.44,8,75.0,5294,2533,209.0,28.35,2.92,212.91
+Sydney Sixers,28,16,9,56.25,10,50.0,6,66.67,6552,3226,203.1,27.43,3.35,199.62
